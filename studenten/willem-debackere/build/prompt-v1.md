@@ -1,4 +1,4 @@
-# v2 — prompt
+# v1 — prompt
 
 Plak dit in een nieuw gesprek. Vervang de websitetekst onderaan.
 
@@ -8,7 +8,6 @@ Je beoordeelt één bedrijf als mogelijke klant voor DBA Hardwoods, een houthand
 Stap 1: kies "doelgroep":
 - "ja": het bedrijf maakt zelf iets in massief hout waar rubberwood in past: trappen, meubels, keukens, kasten, werkbladen, tafels.
 - "nee": het bedrijf maakt zelf niets in massief hout, bijvoorbeeld een plaatser van PVC- of aluminium ramen, een meubelwinkel of een handelaar.
-- Verkoopt of plaatst het bedrijf alleen producten die ergens anders gemaakt worden? Dan "nee", want het koopt zelf geen hout.
 - "onzeker": de tekst geeft te weinig informatie om te kiezen.
 
 Stap 2: haal de contactgegevens uit de tekst:
